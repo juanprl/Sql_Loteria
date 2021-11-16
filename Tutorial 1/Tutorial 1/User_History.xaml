@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tutorial_1.User_History"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tutorial_1"
+        mc:Ignorable="d"
+        Title="User_History" Height="450" Width="600">
+    <Grid>
+        <Image Name="im_background" HorizontalAlignment="Left" Height="422" Margin="1,-1,-1,-2" VerticalAlignment="Top" Width="592" Source="https://freevector-images.s3.amazonaws.com/uploads/vector/preview/40661/FreevectorMeteor-BackgroundAS0621_generated.jpg"/>
+        <Label Content="USERS INFO" HorizontalAlignment="Left" Margin="200,-7,0,0" VerticalAlignment="Top" Height="44" Width="218" Background="{x:Null}" FontSize="32" FontWeight="Bold"/>
+        <DataGrid  Name="dg_userInfo" HorizontalAlignment="Left" Height="373" Margin="11,42,0,0" VerticalAlignment="Top" Width="573"/>
+
+    </Grid>
+</Window>

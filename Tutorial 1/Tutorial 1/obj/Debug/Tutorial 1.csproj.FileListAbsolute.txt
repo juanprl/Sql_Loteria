@@ -1,0 +1,17 @@
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\bin\Debug\Tutorial 1.exe.config
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\bin\Debug\Tutorial 1.exe
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\bin\Debug\Tutorial 1.pdb
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1.csprojAssemblyReference.cache
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\MainWindow.g.cs
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\App.g.cs
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1_MarkupCompile.cache
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1_MarkupCompile.lref
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\MainWindow.baml
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1.g.resources
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial_1.Properties.Resources.resources
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1.csproj.GenerateResource.cache
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1.csproj.CoreCompileInputs.cache
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1.exe
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\Tutorial 1.pdb
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\User_History.g.cs
+C:\Users\Jp\source\repos\Tutorial 1\Tutorial 1\obj\Debug\User_History.baml
